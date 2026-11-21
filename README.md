@@ -1,5 +1,7 @@
 # Module 1: Threat Detection & Classification
 
+Models (not in Git): https://drive.google.com/file/d/1Q9IHHd1vkiI__VP6Ub26ZUJpg7m1_xCN/view?usp=sharing
+Download `models.zip`, unzip it, and place the `models` folder next to `src`.
 Two-stage detector trained on UNSW-NB15.
 
 ## Run
